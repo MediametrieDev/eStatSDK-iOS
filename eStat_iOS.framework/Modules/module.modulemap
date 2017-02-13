@@ -1,0 +1,6 @@
+framework module eStat_iOS {
+  umbrella header "eStat_iOS.h"
+
+  export *
+  module * { export * }
+}

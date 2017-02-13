@@ -1,2 +1,2 @@
 # eStatSDK-iOS
-Repository for eStat iOS framework
+Repository for eStat iOs framework
