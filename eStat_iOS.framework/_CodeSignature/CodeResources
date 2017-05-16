@@ -30,15 +30,23 @@
 		</data>
 		<key>Headers/eStat_iOS.h</key>
 		<data>
-		ZQ5X1A8+4n4/kuyDzJ+t7asTiIM=
+		2shkrBKMHjCjFJjE+UI1bjZKvc4=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		SfgFAhfsO5oSqcsDjqYrLuBGg6g=
+		T6xx1cPSIr0u9wgBktwD8qxhxrg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		79jtouz8PE7ickDFu7gst/DLpTc=
+		</data>
+		<key>internalScripts/iOSUniversalize.sh</key>
+		<data>
+		3cpXy1S7cGt3c6ejI3RFPTSG4is=
+		</data>
+		<key>internalScripts/tvOSUniversalize.sh</key>
+		<data>
+		5RUxpamckBsgQveA/mbKElrNOEE=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -113,11 +121,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZQ5X1A8+4n4/kuyDzJ+t7asTiIM=
+			2shkrBKMHjCjFJjE+UI1bjZKvc4=
 			</data>
 			<key>hash2</key>
 			<data>
-			9lOHfbpbfnGOI+YLefzxF8HbpKsM9etJaVYNNzdCSWg=
+			dZDfmuIp19ctCskZdGR9c7676ALGLO1UeJCYsAz5xnw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -129,6 +137,28 @@
 			<key>hash2</key>
 			<data>
 			NXlvr9UPQhxZESEJUd9NF/j6Xim+nRzAuWmJnMqBjjw=
+			</data>
+		</dict>
+		<key>internalScripts/iOSUniversalize.sh</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3cpXy1S7cGt3c6ejI3RFPTSG4is=
+			</data>
+			<key>hash2</key>
+			<data>
+			WyF8D2WHayDDfpERk3rvj9LAwL5UCMaYdzvx1XbG7GE=
+			</data>
+		</dict>
+		<key>internalScripts/tvOSUniversalize.sh</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5RUxpamckBsgQveA/mbKElrNOEE=
+			</data>
+			<key>hash2</key>
+			<data>
+			Cm99SX93qIuidZ0zOuEUbJyDIyIC9ePmiV1awzGf4c0=
 			</data>
 		</dict>
 	</dict>

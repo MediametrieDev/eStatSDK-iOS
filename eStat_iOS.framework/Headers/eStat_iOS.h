@@ -2,9 +2,6 @@
 //  eStat iOS.h
 //  eStat iOS
 //
-//  Created by Philippe Longere on 06/01/2017.
-//
-//
 
 #import <UIKit/UIKit.h>
 #import <Foundation/Foundation.h>
