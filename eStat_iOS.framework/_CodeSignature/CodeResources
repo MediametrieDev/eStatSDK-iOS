@@ -34,7 +34,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		T6xx1cPSIr0u9wgBktwD8qxhxrg=
+		TAralUUt2YLEvHvLg1tj0S2/A/Q=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>internalScripts/iOSUniversalize.sh</key>
 		<data>
-		3cpXy1S7cGt3c6ejI3RFPTSG4is=
+		H/qtk0wzpmYJ9PL/QFmQ6W6Ip38=
 		</data>
 		<key>internalScripts/tvOSUniversalize.sh</key>
 		<data>
@@ -143,11 +143,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3cpXy1S7cGt3c6ejI3RFPTSG4is=
+			H/qtk0wzpmYJ9PL/QFmQ6W6Ip38=
 			</data>
 			<key>hash2</key>
 			<data>
-			WyF8D2WHayDDfpERk3rvj9LAwL5UCMaYdzvx1XbG7GE=
+			oYsl5/5WcCanTUFLxf6jmSeNBlhVkjyM6NBJ5A/oJNg=
 			</data>
 		</dict>
 		<key>internalScripts/tvOSUniversalize.sh</key>
