@@ -25,7 +25,7 @@ typedef NS_ENUM(NSUInteger, eStatStreamingEvent) {
     eStatStreamingEvent_Playing,
     eStatStreamingEvent_Paused,
     eStatStreamingEvent_Stopped,
-    estatStreamingEvent_None
+    eStatStreamingEvent_None
 };
 
 typedef NS_ENUM(NSUInteger, eStatStreamingType) {
