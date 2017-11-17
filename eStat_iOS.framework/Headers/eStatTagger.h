@@ -15,6 +15,7 @@
     NSString *_serial;
     NSString *_customerData;
     BOOL _canSend;
+    BOOL _useIDFA;
     eStatLoggingMode _loggingMode;
 }
 
@@ -25,6 +26,7 @@
 @property (nonatomic, readonly) NSString *serial;
 @property (nonatomic, readonly) NSString *customerData;
 @property (nonatomic, readonly) BOOL canSend;
+@property(assign) BOOL useIDFA;
 
 ////////////////////////////////////////////////////////////////////////////////
 

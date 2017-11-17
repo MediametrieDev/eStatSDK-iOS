@@ -26,7 +26,7 @@
 		</data>
 		<key>Headers/eStatTagger.h</key>
 		<data>
-		JRB7djpRvrJ1he6yu58KZTB8xks=
+		LqRj7mMIffvy4HT6VUH19H4w8tk=
 		</data>
 		<key>Headers/eStat_iOS.h</key>
 		<data>
@@ -34,19 +34,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		S1dI50dpmBJ/4GEqTkXf8ii1skE=
+		fP4d3LjG+PksL44KmJO8d2kcPsM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		79jtouz8PE7ickDFu7gst/DLpTc=
-		</data>
-		<key>internalScripts/iOSUniversalize.sh</key>
-		<data>
-		H/qtk0wzpmYJ9PL/QFmQ6W6Ip38=
-		</data>
-		<key>internalScripts/tvOSUniversalize.sh</key>
-		<data>
-		5RUxpamckBsgQveA/mbKElrNOEE=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -110,11 +102,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			JRB7djpRvrJ1he6yu58KZTB8xks=
+			LqRj7mMIffvy4HT6VUH19H4w8tk=
 			</data>
 			<key>hash2</key>
 			<data>
-			LO9hLHk4OfQRU96VsByeWpVXkpWyYL11NWs4DSMkquo=
+			YqgP3h5l6tsrzKPHhsjwyZ4oqXj6Nu80AyK6Te4gzrc=
 			</data>
 		</dict>
 		<key>Headers/eStat_iOS.h</key>
@@ -137,28 +129,6 @@
 			<key>hash2</key>
 			<data>
 			NXlvr9UPQhxZESEJUd9NF/j6Xim+nRzAuWmJnMqBjjw=
-			</data>
-		</dict>
-		<key>internalScripts/iOSUniversalize.sh</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			H/qtk0wzpmYJ9PL/QFmQ6W6Ip38=
-			</data>
-			<key>hash2</key>
-			<data>
-			oYsl5/5WcCanTUFLxf6jmSeNBlhVkjyM6NBJ5A/oJNg=
-			</data>
-		</dict>
-		<key>internalScripts/tvOSUniversalize.sh</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			5RUxpamckBsgQveA/mbKElrNOEE=
-			</data>
-			<key>hash2</key>
-			<data>
-			Cm99SX93qIuidZ0zOuEUbJyDIyIC9ePmiV1awzGf4c0=
 			</data>
 		</dict>
 	</dict>
