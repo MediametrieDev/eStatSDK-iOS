@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'eStatSDK-iOS'
-  s.version = '5.4.5'
+  s.version = '5.4.6'
   s.license = { :type => 'MIT', :file => 'LICENSE' }
   s.platform = :ios
   s.summary = 'eStat iOS SDK'
